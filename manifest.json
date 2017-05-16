@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "An adventure in the sky!",
+        "name": "Elysium of the Skies",
+        "uuid": "d945dee9-a68f-40d0-b2c5-f4a949692c38",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "An adventure in the sky!",
+            "type": "resources",
+            "uuid": "bc20c40a-0d22-40b3-bee3-f5e638442ede",
+            "version": [0, 0, 1]
+        }
+    ]
+}
